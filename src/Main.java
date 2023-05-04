@@ -6,22 +6,15 @@ public class Main {
         int islem;
         double n1, n2;
 
-
         Scanner input = new Scanner(System.in);
         System.out.print("İlk sayıyı giriniz: ");
         n1 = input.nextDouble();
 
-
-
         System.out.print("İkinci sayıyı giriniz: ");
         n2 = input.nextDouble();
 
-
-
-
         System.out.print("1 - Toplama\n2 - Çıkarma\n3 - Çarpma\n4 - Bölme\nYapılacak işlemi seçiniz: ");
         islem = input.nextInt();
-
 
 
 
