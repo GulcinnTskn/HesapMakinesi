@@ -42,8 +42,6 @@ public class Main {
                 System.out.println("Hata: Lütfen belirtilen seçenekleri kullanın!");
 
                 break;
-
-
         }
 
 
