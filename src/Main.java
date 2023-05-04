@@ -16,8 +16,6 @@ public class Main {
         System.out.print("1 - Toplama\n2 - Çıkarma\n3 - Çarpma\n4 - Bölme\nYapılacak işlemi seçiniz: ");
         islem = input.nextInt();
 
-
-
         switch (islem) {
             case 1:
                 System.out.println("Cevap: " + (n1 + n2));
